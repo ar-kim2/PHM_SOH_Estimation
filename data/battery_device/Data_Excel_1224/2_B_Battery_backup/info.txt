@@ -1,0 +1,6 @@
+1C rate (3.25A)로 일정하게 방전시킨 Data
+
+
+1. CV_Charge
+2. 1C rate 방전
+3. 0.68A로 완전 방전 

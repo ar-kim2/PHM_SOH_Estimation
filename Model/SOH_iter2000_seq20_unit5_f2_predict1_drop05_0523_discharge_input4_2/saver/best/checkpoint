@@ -1,0 +1,2 @@
+model_checkpoint_path: "bestcost-1999"
+all_model_checkpoint_paths: "bestcost-1999"

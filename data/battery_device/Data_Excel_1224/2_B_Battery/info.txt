@@ -1,0 +1,2 @@
+0.6~2.2A로 Random하게 방전시킨 Data ( 평균 1.2A )
+5Cycle마다 0.68A로 SOH 측정
